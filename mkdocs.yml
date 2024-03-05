@@ -1,0 +1,10 @@
+site_name: My Docs
+nav:
+  - Home: "index.md"
+  - Maturita: "maturitni_otazky.md"
+  - Hodina WA: "wa-hodina.md"
+
+theme: gitbook
+
+extra_css:
+  - styles.css
